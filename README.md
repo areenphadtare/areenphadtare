@@ -202,3 +202,58 @@ class AreenPhadtare:
 ### ⭐ Thanks for visiting my profile ⭐
 
 </div>
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=areenphadtare&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+</p>
+
+---
+
+# 💭 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 👨‍💻 Coding
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700">
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌦 ETL Weather Pipeline | Automated weather data ETL using Python |
+| 🏨 Hotel Management System | Full-stack MERN application |
+| 🧠 CNN Image Classifier | Deep learning image classification |
+| 📊 Titanic ML | Machine learning project |
+| 🔗 URL Shortener | Backend project |
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/areenphadtare">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/areen-phadtare-a26a66321">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:phadtareareen@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
