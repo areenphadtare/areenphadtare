@@ -22,7 +22,7 @@
 
 # 💫 About Me
 
-```python
+\`\`\`python
 class AreenPhadtare:
 
     def __init__(self):
@@ -79,7 +79,7 @@ class AreenPhadtare:
             improve()
 
             repeat()
-```
+\`\`\`
 
 ---
 
@@ -195,13 +195,6 @@ class AreenPhadtare:
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-</div>
----
-
 # 🏆 GitHub Achievements
 
 <p align="center">
@@ -246,7 +239,7 @@ class AreenPhadtare:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/areen-phadtare-a26a66321">
+<a href="https://www.linkedin.com/in/areen-phadtare-a26a66321">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -255,3 +248,11 @@ class AreenPhadtare:
 </a>
 
 </p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
