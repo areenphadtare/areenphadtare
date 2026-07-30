@@ -1,191 +1,91 @@
-<!-- ===================================================== -->
-<!--               AREEN PHADTARE GITHUB PROFILE          -->
-<!-- ===================================================== -->
+## 💫 About Me
 
-<div align="center">
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Areen Phadtare
+```yaml
+Name: Areen Phadtare
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Software+Developer;Machine+Learning+Engineer;Backend+Developer;Data+Science+Enthusiast;Always+Learning+New+Technologies" />
+Role: AI Engineer
+
+Location: India 🇮🇳
+
+Languages:
+  - Python
+  - Java
+  - JavaScript
+  - SQL
+
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Backend Development
+  - Data Engineering
+  - Cloud Computing
+
+Currently Learning:
+  - FastAPI
+  - LangChain
+  - PyTorch
+  - Large Language Models
+  - AWS
+
+Motto:
+  Learn → Build → Improve → Repeat
+```
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=areenphadtare&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/areenphadtare?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/areenphadtare?affiliations=OWNER&style=for-the-badge"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-\`\`\`python
-class AreenPhadtare:
-
-    def __init__(self):
-
-        self.name = "Areen Phadtare"
-
-        self.role = "AI Engineer"
-
-        self.location = "India"
-
-        self.languages = [
-            "Python",
-            "Java",
-            "JavaScript",
-            "SQL"
-        ]
-
-        self.interests = [
-
-            "Artificial Intelligence",
-
-            "Machine Learning",
-
-            "Backend Development",
-
-            "Data Engineering",
-
-            "Cloud Computing"
-
-        ]
-
-        self.currently_learning = [
-
-            "FastAPI",
-
-            "PyTorch",
-
-            "LangChain",
-
-            "LLMs",
-
-            "AWS"
-
-        ]
-
-    def life(self):
-
-        while True:
-
-            learn()
-
-            build()
-
-            improve()
-
-            repeat()
-\`\`\`
-
----
-
 # 🚀 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,nextjs,nodejs,express,fastapi,flask,tensorflow,pytorch,mongodb,postgres,mysql,sqlite,aws,azure,docker,kubernetes,linux,git,github" />
 
 </p>
 
 ---
 
-### Frameworks
+## ⚡ Core Skills
 
-<p>
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=react"/>
+### 🤖 Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- CNN
+- Data Science
 
-<img src="https://skillicons.dev/icons?i=nextjs"/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=express"/>
+### 💻 Software Development
+- Backend APIs
+- MERN Stack
+- REST APIs
+- Database Design
 
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-</p>
-
----
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
-
-### Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=azure"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=kubernetes"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Dashboard
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=areenphadtare&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=areenphadtare&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=areenphadtare&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areenphadtare&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areenphadtare&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 <p align="center">
 
@@ -195,64 +95,104 @@ class AreenPhadtare:
 
 ---
 
-# 🏆 GitHub Achievements
+> 🚀 Passionate about building AI-powered applications and scalable backend systems that solve real-world problems.
+
+---# 🚀 Tech Stack
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=areenphadtare&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,nextjs,nodejs,express,fastapi,flask,tensorflow,pytorch,mongodb,postgres,mysql,sqlite,aws,azure,docker,kubernetes,linux,git,github" />
+
 </p>
 
 ---
 
-# 💭 Developer Quote
+## ⚡ Core Skills
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- CNN
+- Data Science
+
+</td>
+
+<td width="50%">
+
+### 💻 Software Development
+- Backend APIs
+- MERN Stack
+- REST APIs
+- Database Design
+
+</td>
+</tr>
+</table>
 
 ---
-
-# 👨‍💻 Coding
-
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700">
-</p>
-
----
-
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌦 ETL Weather Pipeline | Automated weather data ETL using Python |
-| 🏨 Hotel Management System | Full-stack MERN application |
-| 🧠 CNN Image Classifier | Deep learning image classification |
-| 📊 Titanic ML | Machine learning project |
-| 🔗 URL Shortener | Backend project |
+<table>
+<tr>
+<td width="50%">
+
+### 🌦 ETL Weather Pipeline
+
+Python • ETL • Automation
+
+Automated weather data extraction, transformation, and loading pipeline.
+
+</td>
+
+<td width="50%">
+
+### 🏨 Hotel Management System
+
+MERN Stack
+
+A complete hotel management application with authentication and booking features.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 CNN Image Classifier
+
+TensorFlow • Deep Learning
+
+Image classification using Convolutional Neural Networks.
+
+</td>
+
+<td width="50%">
+
+### 📊 Titanic ML
+
+Machine Learning
+
+Predictive analytics using the Titanic dataset.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 🔗 URL Shortener
+
+Node.js • Express • MongoDB
+
+A fast REST API for creating and managing shortened URLs.
+
+</td>
+</tr>
+
+</table>
 
 ---
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/areenphadtare">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/areen-phadtare-a26a66321">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:phadtareareen@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-</div>
