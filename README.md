@@ -71,30 +71,33 @@ Motto:
 </table>
 
 ---
-# 📊 GitHub Dashboard
+## 📊 GitHub Dashboard
 
-<p align="center">
+<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=areenphadtare&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=areenphadtare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180" src="https://streak-stats.demolab.com?user=areenphadtare&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=areenphadtare&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areenphadtare&layout=compact&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-</p>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areenphadtare&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<p align="center">
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=areenphadtare&theme=tokyo-night&hide_border=true"/>
+<br>
 
-</p>
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=areenphadtare&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
-
 > 🚀 Passionate about building AI-powered applications and scalable backend systems that solve real-world problems.
 
 ---# 🚀 Tech Stack
