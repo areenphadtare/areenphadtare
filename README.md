@@ -71,33 +71,6 @@ Motto:
 </table>
 
 ---
-## 📊 GitHub Dashboard
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=areenphadtare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=areenphadtare&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areenphadtare&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=areenphadtare&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 > 🚀 Passionate about building AI-powered applications and scalable backend systems that solve real-world problems.
 
 ---# 🚀 Tech Stack
