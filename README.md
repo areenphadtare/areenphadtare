@@ -178,15 +178,6 @@ A URL-shortening application demonstrating backend development, API handling, an
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=areenphadtare&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-
-</p>
-
----
 
 ## 📈 Contribution Activity
 
@@ -196,25 +187,6 @@ A URL-shortening application demonstrating backend development, API handling, an
 
 </p>
 
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/areenphadtare/areenphadtare/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/areenphadtare/areenphadtare/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/areenphadtare/areenphadtare/output/github-snake.svg"
-    />
-  </picture>
-</p>
 ---
 
 ## 📚 Learning Journey
